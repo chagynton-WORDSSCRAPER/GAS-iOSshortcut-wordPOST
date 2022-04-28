@@ -1,7 +1,7 @@
 # GAS-iOSshortcut-wordPOST
 accept POST(text) from iOS and put it on  a new row 
-2. This repository have doPOST function part of GAS.
-3. I refer the below site, then I fix it to receive text and delete "" with replace function.
+1. This repository have doPOST function part of GAS.
+2. I refer the below site, then I fix it to receive text and delete "" with replace function.
 Referrence https://virment.com/how-to-post-data-from-ios-shortcut-to-gas/
 
 個人的に英単語収取にiOSショートカットで選択したテキスト（単語）を共有シートからPOSTしてスプレッドシートに追加しています。
