@@ -32,7 +32,7 @@ function doPost(e) {
 }
 
 function addLog(text) {
-  var textnotquote = text.replace(/\"/g, "")//  ここがこのrepositoryの参考サイトから変更点です
+  var textnotquote = text.replace(/\"/g, "")//  ここが参考サイトからの変更点です
   var spreadsheetId = "1AaYm0uiPhyt4wM6tr1-RzLriFuQFImUVaSwnr0lx7Yg"; // スプレッドシートID
   var sheetName = "シート1"; // スプレッドシート名
   var spreadsheet = SpreadsheetApp.openById(spreadsheetId);
