@@ -1,5 +1,5 @@
 # GAS-iOSshortcut-wordPOST
-I use iOS shorcut and GAS to words correcting(I'm Engilish learner.).
+I use iOS shorcut and GAS for correcting words(I'm Engilish learner.).
 I put selected word to new row of spreadsheet from share menu on iPhone.
 1. This repository have doPOST function part of GAS.
 2. I refer the below site, then I fix it to receive text and delete "" with replace function.
