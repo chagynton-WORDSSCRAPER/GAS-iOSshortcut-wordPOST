@@ -1,7 +1,7 @@
 # GAS-iOSshortcut-wordPOST
 I use iOS shortcut and GAS for collecting words(I'm English learner.).
 I put selected word to new row of spreadsheet from share menu on iPhone.
-1. This repository have doPOST function part of GAS.
+1. This repository have doPOST function of GAS.
 2. I refer the below site, then I fix it to receive text and delete "" with replace function.
 
 Reference https://virment.com/how-to-post-data-from-ios-shortcut-to-gas/
